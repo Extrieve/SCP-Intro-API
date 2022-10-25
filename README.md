@@ -8,6 +8,7 @@ Optional: start a virtual environment to keep your packages organized.
 ```bash
 python -m venv .env
 source .env/bin/activate
+pip install -r requirements.txt
 ```
 
 <br>
