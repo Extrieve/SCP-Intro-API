@@ -1,7 +1,23 @@
 # SCP-Intro-API
  Introductory Workshop to API's for USF's Society of Competitive Programmers Beginner Series
- In order to complete this workshop, you will need to have a basic understanding of Python and have the requests module installed.
+ <br>
+ In order to complete this workshop, you will need to have a basic understanding of Python and have the requests module installed. Try one of any commands to get the requests module installed.
 
 ```bash
 pip install requests
+pip3 install requests
+python3 -m pip install requests
+python -m pip install requests
+python3 -m pip3 install requests
 ```
+
+<br>
+If none of the above commands work, try the following:
+
+```bash
+sudo apt-get install python3-pip
+sudo apt-get install python-pip
+```
+
+<br>
+If you are still having trouble, try the following: access repl.it and create a new Python3 project and retry the commands above. If you are still having trouble, please contact us at nicolas.cinera@gmail.com
