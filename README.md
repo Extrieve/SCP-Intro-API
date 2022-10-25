@@ -20,4 +20,4 @@ sudo apt-get install python-pip
 ```
 
 <br>
-If you are still having trouble, try the following: access repl.it and create a new Python3 project and retry the commands above. If you are still having trouble, please contact us at nicolas.cinera@gmail.com
+If you are still having trouble, try the following: access http://repl.it and create a new Python3 project and retry the commands above. If you are still having trouble, please contact us at nicolas.cinera@gmail.com
