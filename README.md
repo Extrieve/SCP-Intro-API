@@ -2,6 +2,17 @@
  Introductory Workshop to API's for USF's Society of Competitive Programmers Beginner Series
  <br>
  In order to complete this workshop, you will need to have a basic understanding of Python and have the requests module installed. Try one of any commands to get the requests module installed.
+<br>
+Optional: start a virtual environment to keep your packages organized.
+
+```bash
+python -m venv .env
+source .env/bin/activate
+```
+
+<br>
+
+### Install the requests module
 
 ```bash
 pip install requests
